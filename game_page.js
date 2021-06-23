@@ -35,7 +35,7 @@ function check()
  {
 
   get_answer = document.getElementById("input_check_box").value;
-  if (answer == actual_number ) 
+  if (get_answer == actual_number ) 
   {
 
 if (answer_turn == "player_1") 

@@ -16,10 +16,10 @@
 {
 	display: inline-block;
 	margin-left: 20px;
-    color: darkviolet;
+    color: magenta;
     font-family: monospace;
 }
-#word
+#Number1 , #Number2
 {
 	width: 60%;
 }
@@ -39,6 +39,7 @@ text-align: left;
 
 label {
 font-family: monospace;
+color: red;
 }
 h1 {
 color: whitesmoke;
@@ -46,5 +47,19 @@ color: whitesmoke;
 
 body {
 
-	background-color: magenta;
+	background-image: url("maths2.jpg");
+
 }
+
+#player1_score , #player2_score
+{
+	color: rgb(113, 72, 209);
+}
+
+#player_question , #player_answer
+{
+
+	color: springgreen;
+}
+
+
